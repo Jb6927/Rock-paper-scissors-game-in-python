@@ -2,6 +2,10 @@
 
 # Rock Paper Scissors Game
 
+This is my second Git repository.
+<br>
+Author - Jeet Biswas.
+
 ## Introduction
 This is a simple Rock-Paper-Scissors game implemented in Python. The user plays against the computer, which randomly selects its move. The game determines the winner based on the classic Rock-Paper-Scissors rules.
 
