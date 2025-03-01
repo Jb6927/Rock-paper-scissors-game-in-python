@@ -50,6 +50,4 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The user plays 
    ```
 5. Submit a Pull Request.
 
-## License
-This project is licensed under the MIT License.
 
