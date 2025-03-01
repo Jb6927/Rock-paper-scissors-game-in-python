@@ -29,7 +29,7 @@ This is a simple Rock-Paper-Scissors game implemented in Python. The user plays 
    ```
 3. Run the script:
    ```sh
-   python game.py
+   python main.py
    ```
 
 ## Game Rules
